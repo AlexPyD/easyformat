@@ -34,3 +34,18 @@ This Python program allows you to format disks interactively via a command-line 
 ## Open Source and Modification
 
 This program is open-source and free to modify. You are welcome to contribute and customize it to suit your needs. If you encounter any issues or have suggestions for improvements, please create an issue or a pull request on GitHub.
+
+[GitHub Repository](https://github.com/alexpyd/easyformat)
+
+## Usage
+
+### Clone the Repository
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/alexpyd/easyformat.git
+
+2. Run The Program
+  
+  python main.py
