@@ -2,8 +2,7 @@
 
 📦 **A Python program to format disks interactively via command-line.**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/disk-formatting-program)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/disk-formatting-program)
+![GitHub repo views](https://img.shields.io/github/views/yourusername/disk-formatting-program)
 
 ## Table of Contents
 
